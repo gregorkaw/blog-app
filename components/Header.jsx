@@ -18,7 +18,8 @@ const Header = () => {
         <div className="block mb-8">
           <Link href="/">
             <span 
-              className="transition duration-1000 hover:text-gray-400 cursor-pointer font-bold text-4xl text-white">
+              className="transition duration-1000 hover:text-gray-400 cursor-pointer font-bold text-4xl text-white"
+            >
                 Grzegorz-Kawecki
               </span>
           </Link>
